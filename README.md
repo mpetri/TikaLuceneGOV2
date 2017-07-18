@@ -7,7 +7,6 @@ git clone https://github.com/mpetri/TikaLuceneGOV2.git
 mvn clean package appassembler:assemble
 ```
 
-```
 # D2SI Output format 
 
 See description [here](https://github.com/ot/ds2i)

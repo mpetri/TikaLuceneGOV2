@@ -6,7 +6,7 @@
 		</Console>
         <File 
             name="MyFile" 
-            fileName="tikalucenewarc-${date:yyyy-MM-dd-hh-mm}.log"
+            fileName="TIKELUCENEGOV2-${date:yyyy-MM-dd-hh-mm}.log"
             immediateFlush="true">
             <PatternLayout pattern="%d{DEFAULT} [%p] %msg%n" />
         </File>
